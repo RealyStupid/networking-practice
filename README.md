@@ -1,4 +1,4 @@
-# TWITED TESTS
+# NETWORKING PRACTICE
 lol this is my first time making servers and so i thought why not make it a repo
 
 this repo contains some tests writen by me so i can really get into the nitty gritty of server creation!
